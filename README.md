@@ -1,5 +1,8 @@
-## yo
+## Hey there!
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/bFMcOferOfcAAAAd/dono-wall-talking.gif" width="220" />
+</p>
 
 
 📂 featured stuff
@@ -12,10 +15,7 @@ before on-road instruction.
 - (optional) linkedin / site / email
 
 
-<p align="center">
-  <img src="https://tenor.com/view/dono-wall-talking-wall-bricks-gif-17741481" width="220" />
-</p>
-<!--
+
 **RashawnGr20/rashawngr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
