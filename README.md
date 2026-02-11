@@ -1,7 +1,7 @@
 ## Hey there!
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/bFMcOferOfcAAAAd/dono-wall-talking.gif" width="220" />
+  <img src="./dono-wall-talking.gif" width="220" />
 </p>
 
 
