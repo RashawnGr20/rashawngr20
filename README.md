@@ -13,11 +13,7 @@ before on-road instruction.
 
 ### 📫 reach me
 - Email: rashawngrantrhooms@gmail.com
-- <a href="(https://www.linkedin.com/in/rashawn-grant-rhooms-b4018733b/)" target="_blank">
-- <a href="" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
-</a>
-
+- [linkedin](https://www.linkedin.com/in/rashawn-grant-rhooms-b4018733b/)
 
 <!--
 **RashawnGr20/rashawngr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
