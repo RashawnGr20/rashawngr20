@@ -1,6 +1,20 @@
-## Hi there 👋
+## yo
 
 
+
+📂 featured stuff
+- 🔹 **DriveSafe** —  computer vision–based driver training system to evaluate observational awareness
+before on-road instruction.
+
+
+### 📫 reach me
+- github: [@yourusername](https://github.com/yourusername)
+- (optional) linkedin / site / email
+
+
+<p align="center">
+  <img src="https://tenor.com/view/dono-wall-talking-wall-bricks-gif-17741481" width="220" />
+</p>
 <!--
 **RashawnGr20/rashawngr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
