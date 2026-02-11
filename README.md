@@ -15,9 +15,7 @@ before on-road instruction.
 - github: [@yourusername](https://github.com/yourusername)
 - (optional) linkedin / site / email
 
-<p align="center">
-  <img src="./dono-wall-talking.gif" width="110" />
-</p>
+
 <!--
 **RashawnGr20/rashawngr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
