@@ -1,6 +1,6 @@
-## hey, i’m Rashawn.
+## hey, i’m Rashawn!
 
-second-year student studying math and computer science at McMaster University 
+Second-year student studying math and computer science at McMaster University 
 I try to understand how things work. 
 
 
