@@ -12,7 +12,7 @@ before on-road instruction.
 
 
 ### 📫 reach me
-- 📧 <rashawngrantrhooms@gmail.com>
+- 📧 rashawngrantrhooms@gmail.com
 - <a href="https://www.linkedin.com/in/rashawn-grant-rhooms-b4018733b/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
 </a>
