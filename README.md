@@ -1,7 +1,7 @@
-## hey, i’m Rashawn!
+## Wsg
 
 Second-year student studying math and computer science at McMaster University 
-I try to understand how things work. 
+
 
 
 
