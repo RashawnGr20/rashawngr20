@@ -7,7 +7,7 @@ Second-year student studying math and computer science at McMaster University
 
 
 📂 featured stuff
-- 🔹 **DriveSafe** —  computer vision–based driver training system to evaluate observational awareness
+- 🔹 **LookFirst** —  computer vision–based driver training system to evaluate observational awareness
 before on-road instruction.
 
 
