@@ -14,6 +14,7 @@ before on-road instruction.
 - <a href="https://www.linkedin.com/in/rashawn-grant-rhooms-b4018733b/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
 </a>
+-check my site  <a href="https://rashawngr20.github.io/rashawn.github.io/">
 
 <!--
 **RashawnGr20/rashawngr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
