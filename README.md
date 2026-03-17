@@ -1,6 +1,6 @@
 ## Wsg
 
-<p align="center">
+<p align="left">
   <img src="dono-wall-talking.gif" width="200"/>
 </p>
 
