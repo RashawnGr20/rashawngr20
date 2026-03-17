@@ -1,7 +1,7 @@
 ## Wsg
 
 <p align="center">
-  <img src="dono-wall-talking.gif" width="700"/>
+  <img src="dono-wall-talking.gif" width="500"/>
 </p>
 
 Second-year student studying math and computer science at McMaster University 
