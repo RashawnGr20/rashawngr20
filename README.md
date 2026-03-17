@@ -1,6 +1,6 @@
 ## Wsg
 
-  <img src="dono-wall-talking.gif" width="200"/>
+  <img src="3x.gif" width="200"/>
 
 Second-year student studying math and computer science at McMaster University 
 
