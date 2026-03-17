@@ -2,10 +2,10 @@
 
   <img src="3x.gif" width="200"/>
 
-Second-year student studying math and computer science at McMaster University 
+Second-year student studying Math and Computer Science at McMaster University 
 
 📂 featured stuff
-- 🔹 **LookFirst** —  computer vision–based driver training system to evaluate observational awareness
+- 🔹 **LookFirst** —  Computer vision–based driver training system to evaluate observational awareness
 before on-road instruction.
 - 🔹 **Two-Class & Multi-Class Classification** —  basic classification methods and how they extend from binary (two-class) problems to multi-class settings.
 
