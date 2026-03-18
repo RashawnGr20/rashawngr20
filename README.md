@@ -1,4 +1,4 @@
-## Wsg
+## hello, im Rashawn
 
   <img src="3x.gif" width="200"/>
 
