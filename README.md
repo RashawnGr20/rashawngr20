@@ -1,6 +1,6 @@
 ## hello, im Rashawn
 
-  <img src="IMG_7240.JPG" width="350"/>
+  <img src="IMG_7240.JPG" width="350" height="450"/>
 
 Second-year student studying Math and Computer Science at McMaster University 
 
